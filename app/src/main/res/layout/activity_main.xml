@@ -8,11 +8,11 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView" />
+        android:text="@string/app_name" />
 
     <Button
         android:id="@+id/button"
-        android:layout_width="match_parent"
-        android:layout_height="66dp"
-        android:text="DUMMY BUTTON" />
+        android:layout_width="283dp"
+        android:layout_height="63dp"
+        android:text="@string/app_name" />
 </LinearLayout>
